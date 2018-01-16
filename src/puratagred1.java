@@ -24,6 +24,8 @@ System.out.println("MASUKKAN MARKAH ANDA ");
 
 System.out.println("Markah Bahasa Melayu : ");
 bm = scan.nextDouble();
+System.out.println("Markah Bahasa Melayu : ");
+bm = scan.nextDouble();
 System.out.println("Markah Bahasa Inggeris : ");
 bi = scan.nextDouble();
 System.out.println("Markah Sejarah : ");
@@ -31,6 +33,10 @@ sej = scan.nextDouble();
 
 purata=bm+bi+sej/3;
 
+if (purata > 89 ){
+        System.out.println(" Gred yang anda perolehi adalah : A ");
+        
+}
 if (purata > 89 ){
         System.out.println(" Gred yang anda perolehi adalah : A ");
         
