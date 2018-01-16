@@ -20,6 +20,7 @@ public static void main(String[] args) {
 Scanner scan=new Scanner(System.in);
 
 System.out.println("MASUKKAN MARKAH ANDA ");
+System.out.println("MASUKKAN MARKAH ANDA ");
 
 System.out.println("Markah Bahasa Melayu : ");
 bm = scan.nextDouble();
