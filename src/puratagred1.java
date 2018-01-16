@@ -41,6 +41,10 @@ if (purata > 89 ){
         System.out.println(" Gred yang anda perolehi adalah : A ");
         
 }
+if (purata > 89 ){
+        System.out.println(" Gred yang anda perolehi adalah : A ");
+        
+}
 
 else if (purata  > 79 ){
         System.out.println(" Gred yang anda perolehi adalah : A- ");
